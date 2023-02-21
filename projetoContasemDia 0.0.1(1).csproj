@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7ACFDDC9-7ABE-4F53-84D4-D66B02956295}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>projetoContasemDia_0._0._1</RootNamespace>
+    <AssemblyName>projetoContasemDia 0.0.1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>projetoContasemDia_0._0._1.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BEUsuario.cs" />
+    <Compile Include="BFFUsuario.cs" />
+    <Compile Include="Dados.cs" />
+    <Compile Include="EntidadeUsuario.cs" />
+    <Compile Include="telaAreaLogada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaAreaLogada.Designer.cs">
+      <DependentUpon>telaAreaLogada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaAtualizarCelular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaAtualizarCelular.Designer.cs">
+      <DependentUpon>telaAtualizarCelular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaAtualizarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaAtualizarSenha.Designer.cs">
+      <DependentUpon>telaAtualizarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaAtulizarEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaAtulizarEmail.Designer.cs">
+      <DependentUpon>telaAtulizarEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaBemVindo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaBemVindo.Designer.cs">
+      <DependentUpon>telaBemVindo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCadastroCriado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCadastroCriado.Designer.cs">
+      <DependentUpon>telaCadastroCriado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCelularAlterado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCelularAlterado.Designer.cs">
+      <DependentUpon>telaCelularAlterado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaConfirmacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaConfirmacao.Designer.cs">
+      <DependentUpon>telaConfirmacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCriarNovaSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCriarNovaSenha.Designer.cs">
+      <DependentUpon>telaCriarNovaSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaEmailAlterado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaEmailAlterado.Designer.cs">
+      <DependentUpon>telaEmailAlterado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaLogin.Designer.cs">
+      <DependentUpon>telaLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="telaNovoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaNovoUsuario.Designer.cs">
+      <DependentUpon>telaNovoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaRecuperarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaRecuperarSenha.Designer.cs">
+      <DependentUpon>telaRecuperarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaSenhaAlterada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaSenhaAlterada.Designer.cs">
+      <DependentUpon>telaSenhaAlterada.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="telaAreaLogada.resx">
+      <DependentUpon>telaAreaLogada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaAtualizarCelular.resx">
+      <DependentUpon>telaAtualizarCelular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaAtualizarSenha.resx">
+      <DependentUpon>telaAtualizarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaAtulizarEmail.resx">
+      <DependentUpon>telaAtulizarEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCadastroCriado.resx">
+      <DependentUpon>telaCadastroCriado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCelularAlterado.resx">
+      <DependentUpon>telaCelularAlterado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaConfirmacao.resx">
+      <DependentUpon>telaConfirmacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCriarNovaSenha.resx">
+      <DependentUpon>telaCriarNovaSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaEmailAlterado.resx">
+      <DependentUpon>telaEmailAlterado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaLogin.resx">
+      <DependentUpon>telaLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaBemVindo.resx">
+      <DependentUpon>telaBemVindo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaNovoUsuario.resx">
+      <DependentUpon>telaNovoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaRecuperarSenha.resx">
+      <DependentUpon>telaRecuperarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaSenhaAlterada.resx">
+      <DependentUpon>telaSenhaAlterada.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

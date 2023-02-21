@@ -1,0 +1,32 @@
+texto campos
+
+Calibri, 12pt, style=Italic - Font color -
+----------------------------------------------------------
+
+texto mensagem erro ! 
+
+
+Microsoft Sans Serif, 9pt, style=Bold
+---------------------------------------------------------
+
+Textos Fixos
+
+Microsoft YaHei, 11.25pt, style=Italic - 
+
+-------------------------------------------------------
+
+
+The process cannot access the file because it is being used by another process.
+
+
+Verificar senhas digitadas!
+
+Preenchas os campos acima!
+
+Erro ao inserir conta!
+
+
+
+
+
+cmd = new SqlCommand("UPDATE tbUsuario SET Senha = '" + Senha + "' WHERE Nome = '" + Nome + "'", con);

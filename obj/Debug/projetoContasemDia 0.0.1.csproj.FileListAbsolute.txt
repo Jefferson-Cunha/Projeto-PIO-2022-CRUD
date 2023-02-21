@@ -1,0 +1,129 @@
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\bin\Debug\projetoContasemDia 0.0.1.exe.config
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\bin\Debug\projetoContasemDia 0.0.1.exe
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\bin\Debug\projetoContasemDia 0.0.1.pdb
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia 0.0.1.csproj.AssemblyReference.cache
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia 0.0.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia_0._0._1.Properties.Resources.resources
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia 0.0.1.csproj.GenerateResource.cache
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia 0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia 0.0.1.exe
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia 0.0.1.pdb
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia_0._0._1.telaLogin.resources
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia_0._0._1.telaBemVindo.resources
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia_0._0._1.telaNovoUsuario.resources
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia_0._0._1.telaRecuperarSenha.resources
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia_0._0._1.telaAreaLogada.resources
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia_0._0._1.telaCriarNovaSenha.resources
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia_0._0._1.telaCadastroCriado.resources
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia_0._0._1.telaConfirmacao.resources
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia_0._0._1.telaAtulizarEmail.resources
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia_0._0._1.telaAtualizarCelular.resources
+C:\Users\jeffe\source\repos\projetoContasemDia 0.0.1\obj\Debug\projetoContasemDia_0._0._1.telaAtualizarSenha.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\bin\Debug\projetoContasemDia 0.0.1.exe.config
+C:\Users\jeffe\source\repos\projetoContasemDia Err\bin\Debug\projetoContasemDia 0.0.1.exe
+C:\Users\jeffe\source\repos\projetoContasemDia Err\bin\Debug\projetoContasemDia 0.0.1.pdb
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia 0.0.1.csproj.AssemblyReference.cache
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia 0.0.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.Properties.Resources.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaAreaLogada.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaAtualizarCelular.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaAtualizarSenha.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaAtulizarEmail.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaCadastroCriado.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaConfirmacao.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaCriarNovaSenha.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaLogin.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaBemVindo.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaNovoUsuario.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaRecuperarSenha.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia 0.0.1.csproj.GenerateResource.cache
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia 0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia 0.0.1.exe
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia 0.0.1.pdb
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaEmailAlterado.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaSenhaAlterada.resources
+C:\Users\jeffe\source\repos\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaCelularAlterado.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\bin\Debug\projetoContasemDia 0.0.1.exe.config
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\bin\Debug\projetoContasemDia 0.0.1.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\bin\Debug\projetoContasemDia 0.0.1.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia 0.0.1.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia 0.0.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.Properties.Resources.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaAreaLogada.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaAtualizarCelular.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaAtualizarSenha.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaAtulizarEmail.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaCadastroCriado.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaCelularAlterado.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaConfirmacao.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaCriarNovaSenha.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaEmailAlterado.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaLogin.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaBemVindo.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaNovoUsuario.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaRecuperarSenha.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaSenhaAlterada.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia 0.0.1.csproj.GenerateResource.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia 0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia 0.0.1.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia 0.0.1.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.telaNovaConta.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia Err\obj\Debug\projetoContasemDia_0._0._1.TelaContaInserida.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\bin\Debug\projetoContasemDia 0.0.1.exe.config
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\bin\Debug\projetoContasemDia 0.0.1.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\bin\Debug\projetoContasemDia 0.0.1.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia 0.0.1.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia 0.0.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.TelaContaInserida.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.Properties.Resources.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaAreaLogada.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaAtualizarCelular.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaAtualizarSenha.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaAtulizarEmail.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaCadastroCriado.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaCelularAlterado.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaConfirmacao.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaCriarNovaSenha.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaEmailAlterado.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaLogin.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaBemVindo.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaNovaConta.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaNovoUsuario.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaRecuperarSenha.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaSenhaAlterada.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia 0.0.1.csproj.GenerateResource.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia 0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia 0.0.1.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia 0.0.1.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaExcluirConta.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaAtualizarContaUsuario.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaContaExcluida.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\bin\Debug\projetoContasemDia 0.0.1.exe.config
+C:\Users\jeffe\Desktop\projetoContasemDia\bin\Debug\projetoContasemDia 0.0.1.exe
+C:\Users\jeffe\Desktop\projetoContasemDia\bin\Debug\projetoContasemDia 0.0.1.pdb
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia 0.0.1.csproj.AssemblyReference.cache
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia 0.0.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaAtualizarContaUsuario.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaContaExcluida.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.TelaContaInserida.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.Properties.Resources.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaAreaLogada.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaAtualizarCelular.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaAtualizarSenha.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaAtulizarEmail.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaCadastroCriado.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaCelularAlterado.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaConfirmacao.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaCriarNovaSenha.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaEmailAlterado.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaExcluirConta.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaLogin.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaBemVindo.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaNovaConta.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaNovoUsuario.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaRecuperarSenha.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia_0._0._1.telaSenhaAlterada.resources
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia 0.0.1.csproj.GenerateResource.cache
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia 0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia 0.0.1.exe
+C:\Users\jeffe\Desktop\projetoContasemDia\obj\Debug\projetoContasemDia 0.0.1.pdb
